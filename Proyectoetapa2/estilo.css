@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(127, 192, 137);
+}
+
+#Titulo{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(61, 96, 68);
+}
+
+#img{
+    height: 100px;
+}
